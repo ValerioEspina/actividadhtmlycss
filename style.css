@@ -1,4 +1,27 @@
-h2 {
-    color: rgb(30, 38, 46);
-    font-size: 40px;
+h1 {
+    color: #f60a0a;
+    font-size: xx-large;
+    font-style: italic;
+    font-family: sans-serif;
 }
+
+h2 {
+    color: blueviolet;
+    font-size: 20px;
+}
+
+p {
+    color: #00000091;
+    font-size: 15px;
+    background-color: #eadfdf;
+}
+
+img {
+    border: 5px solid darkblue;
+  }
+
+footer {
+    background-color: #eff;
+    box-shadow: 0 2px 4px rgba(91,91,91,.7);
+}
+
